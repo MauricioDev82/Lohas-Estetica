@@ -10,12 +10,12 @@
 
 <div style="width:100%;display:flex;height: 80px">
 
-<div style="width:50%;backgroud:blue">
+<div style="width:50%;background:blue">
 
 </div>
 
 
-<div style="width:50%;backgroud:red">
+<div style="width:50%;background:red">
 </div>
 
 
